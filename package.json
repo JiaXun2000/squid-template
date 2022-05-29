@@ -1,5 +1,5 @@
 {
-  "name": "kusama-balances",
+  "name": "astar-degens",
   "private": true,
   "scripts": {
     "build": "rm -rf lib && tsc",
